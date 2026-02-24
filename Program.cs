@@ -1,2 +1,2 @@
-﻿using var game = new ProjectName.Game1();
+﻿using var game = new WaveFunctionCollapse.Game1();
 game.Run();

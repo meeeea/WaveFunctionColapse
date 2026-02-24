@@ -1,0 +1,27 @@
+{
+    "name" : "Planes",
+    "sprites" : [
+        {
+            "name" : "Grass1",
+            "keywords" : [
+                "Planes_Grass"
+            ],
+            "neighbor_keywords" : [
+                "Planes_Grass",
+                "Planes_Rock",
+                "Planes_Flower"
+            ]
+        },
+        {
+            "name" : "Rock1",
+            "keywords" : [
+                "Planes_Rock"
+            ],
+            "neighbor_keywords" : [
+                "Planes_Grass",
+                "Planes_Rock",
+                "Planes_Flower"
+            ]
+        }
+    ]
+}
